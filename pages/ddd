@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyD1_eqJO3j7zLllDb3AzGQi-95M7Ib5ekY",
+  authDomain: "next-typescript-project.firebaseapp.com",
+  projectId: "next-typescript-project",
+  storageBucket: "next-typescript-project.appspot.com",
+  messagingSenderId: "284513433054",
+  appId: "1:284513433054:web:adcc362c43448fcf01994f",
+  measurementId: "G-JM23RD4ERY"
+};
