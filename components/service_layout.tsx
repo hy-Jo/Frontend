@@ -1,1 +1,3 @@
-const ServiceLayout = function ({title = 'blah x2', children}:Props)
+import Head from "next/head";
+
+const ServiceLayout = function ({title = 'blah x2', children}:Props);
